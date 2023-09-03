@@ -1,5 +1,4 @@
 import { Wrapper, Title } from './Section.styled';
-// const { Component } = require('react');
 
 export const Section = props => (
   <Wrapper>
